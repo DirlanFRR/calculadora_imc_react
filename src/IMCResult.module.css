@@ -1,0 +1,16 @@
+/* IMCResult.module.css */
+.resultContainer {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .resultHeading {
+    font-size: 1.2em;
+    margin-bottom: 15px;
+  }
+  
+  .resultText {
+    margin-bottom: 10px;
+  }
